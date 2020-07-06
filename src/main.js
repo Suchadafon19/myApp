@@ -6,6 +6,7 @@ import 'vuetify/dist/vuetify.min.css'
 import vuetify from '@/plugins/vuetify'
 
 
+
 Vue.config.productionTip = false
 
 Vue.use(Vuetify)
